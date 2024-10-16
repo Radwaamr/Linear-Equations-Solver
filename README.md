@@ -1,2 +1,5 @@
-# Linear-Equations-Solver
-This repository contains a Python script that solves systems of linear equations and provides step-by-step solutions. The script is designed to help students and developers understand the process of solving linear equations, rather than just providing the final answer. 
+# Linear Equation Solver
+
+**Description**
+This repository contains a Python script that solves systems of linear equations and provides detailed, step-by-step solutions. It's designed to help users understand the solving process rather than just receiving the final result.
+
